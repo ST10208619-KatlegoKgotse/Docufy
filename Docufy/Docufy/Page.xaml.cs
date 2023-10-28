@@ -1,9 +1,5 @@
-﻿using Microsoft.Win32;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Data;
-using System.Data.SqlClient;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,24 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Docufy
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Page.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Page : Window
     {
-
-
-        public MainWindow()
+        public Page()
         {
             InitializeComponent();
-
-
         }
-
-     
+    }
 }
