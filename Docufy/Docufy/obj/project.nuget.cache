@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3OkugbuSzhL/e2LObczjjvFB7/N8vMgU4dZ8Ntx1tv6wCM/h8F5elhxwg+J8MG1K6mT9cDy9nD/K6ItfXFo8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\Docufy\\Docufy\\Docufy\\Docufy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\wpf-ui\\2.1.0\\wpf-ui.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
