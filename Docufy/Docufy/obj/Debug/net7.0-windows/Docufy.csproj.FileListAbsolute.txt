@@ -1,13 +1,17 @@
+<<<<<<< HEAD
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.csproj.AssemblyReference.cache
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\MainWindow.g.cs
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\App.g.cs
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy_MarkupCompile.cache
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy_MarkupCompile.lref
+=======
+>>>>>>> main
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Docufy.exe
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Docufy.deps.json
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Docufy.runtimeconfig.json
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Docufy.dll
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Docufy.pdb
+<<<<<<< HEAD
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
@@ -15,6 +19,20 @@ C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-wi
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\MainWindow.baml
+=======
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Wpf.Ui.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Login.g.cs
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Registration.g.cs
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy_MarkupCompile.cache
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy_MarkupCompile.lref
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\App.baml
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Login.baml
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Registration.baml
+>>>>>>> main
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.g.resources
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.AssemblyInfoInputs.cache
@@ -26,4 +44,30 @@ C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-wi
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.pdb
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.genruntimeconfig.cache
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\ref\Docufy.dll
+<<<<<<< HEAD
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Menu.g.cs
+=======
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+>>>>>>> main

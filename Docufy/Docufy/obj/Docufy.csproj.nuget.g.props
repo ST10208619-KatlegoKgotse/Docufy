@@ -12,4 +12,10 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\lab_services_student\.nuget\packages\" />
   </ItemGroup>
+<<<<<<< HEAD
+=======
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgWPF-UI Condition=" '$(PkgWPF-UI)' == '' ">C:\Users\lab_services_student\.nuget\packages\wpf-ui\2.1.0</PkgWPF-UI>
+  </PropertyGroup>
+>>>>>>> main
 </Project>
