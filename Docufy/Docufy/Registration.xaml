@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:Docufy"
         xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
         mc:Ignorable="d"
-        Title="Registration" Height="450" Width="800" MinHeight="600" MaxWidth="1000" >
+        Background="#2c2a26"
+        Title="Registration" Height="450" Width="800" MinHeight="600" MinWidth="450" MaxWidth="1000" >
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="250"/>
@@ -21,14 +22,42 @@
                     <TextBlock Text="The future of your education is here" TextWrapping="Wrap" FontSize="25" Foreground="#fff9f9" TextAlignment="Center" FontWeight="DemiBold"/>
                    </WrapPanel>
                 <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-                    <Button HorizontalAlignment="Center" VerticalAlignment="Top">
+                    <Button x:Name="btnSignIn" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnSignIn_Click">
                         <TextBlock Text="Sign In" FontSize="25" Foreground="#fff9f9" />
                     </Button>
                 </WrapPanel>
             </StackPanel>
         </StackPanel>
-        <StackPanel Grid.Column="1" Background="#2c2a26">
-            <E
+        <StackPanel Grid.Column="1" Background="#2c2a26" Margin="40">
+            <StackPanel Grid.Row="0">
+                <TextBlock Text="Register Here" FontSize="25" Foreground="#fff9f9" TextAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Margin="30">
+                <WrapPanel Margin="10">
+                    <Label Content="First Name" FontSize="18" VerticalAlignment="Center"/>
+                    <TextBox Margin="20 0 4 0" Width="350"/>
+                </WrapPanel>
+                <WrapPanel Margin="10">
+                    <Label Content="Last Name" FontSize="18" VerticalAlignment="Center"/>
+                    <TextBox Margin="20 0 4 0" Width="350"/>
+                </WrapPanel>
+                <WrapPanel Margin="10">
+                    <Label Content="Email Address" FontSize="18" VerticalAlignment="Center"/>
+                    <TextBox Margin="3 0 4 0" Width="340"/>
+                </WrapPanel>
+                <WrapPanel Margin="10">
+                    <Label Content="Password" FontSize="18" VerticalAlignment="Center"/>
+                    <TextBox Margin="30 0 4 0" Width="350"/>
+                </WrapPanel>
+            </StackPanel>
+            <WrapPanel HorizontalAlignment="Center">
+                <Button Grid.Column="0">
+                    <TextBlock Text="Sign Up"/>
+                </Button>
+                <Button Margin="40 0 0 0">
+                    <TextBlock Text="Cancel Sign Up"/>
+                </Button>
+            </WrapPanel>
         </StackPanel>
     </Grid>
 </Window>
