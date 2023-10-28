@@ -60,7 +60,7 @@ namespace Docufy {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Docufy;V1.0.0.0;component/registration.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Docufy;component/registration.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Registration.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

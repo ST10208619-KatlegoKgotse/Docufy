@@ -5,12 +5,16 @@ C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-wi
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Docufy.pdb
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\bin\Debug\net7.0-windows\Wpf.Ui.dll
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Login.g.cs
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Registration.g.cs
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\App.g.cs
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy_MarkupCompile.cache
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy_MarkupCompile.lref
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\App.baml
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Login.baml
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Registration.baml
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.g.resources
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.AssemblyInfoInputs.cache
@@ -22,7 +26,3 @@ C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-wi
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.pdb
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Docufy.genruntimeconfig.cache
 C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\ref\Docufy.dll
-C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Login.g.cs
-C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Registration.g.cs
-C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Login.baml
-C:\Users\lab_services_student\Documents\Docufy\Docufy\Docufy\obj\Debug\net7.0-windows\Registration.baml
