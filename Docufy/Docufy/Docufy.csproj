@@ -8,8 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="NEST" Version="7.17.5" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+=======
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.2" />
+    <PackageReference Include="WPF-UI" Version="2.1.0" />
+>>>>>>> main
   </ItemGroup>
 
 </Project>
